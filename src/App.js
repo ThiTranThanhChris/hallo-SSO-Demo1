@@ -13,14 +13,8 @@ function App() {
   }
 
   return (
-    <div className="wrapper">
+    <div>
       <h1>Application</h1>
-      {/* <Router>
-        <Routes>
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/preferences" element={<Preferences />} />
-        </Routes>
-      </Router> */}
     </div>
   );
 }
